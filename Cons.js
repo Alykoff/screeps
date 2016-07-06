@@ -8,7 +8,7 @@
  */
 
 module.exports = {
-    MAX_OF_WARRIORS: 2,
+    MAX_OF_WARRIORS: 1,
     MAX_OF_BUILDERS: 3,
     MAX_OF_HARVESTERS: 4,
     MAX_OF_UPGRADERS: 4,
